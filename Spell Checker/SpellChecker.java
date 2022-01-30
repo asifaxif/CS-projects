@@ -1,4 +1,4 @@
-// I have neither given nor received unauthorized aid on this assignment. - Asif-Ul Islam
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
