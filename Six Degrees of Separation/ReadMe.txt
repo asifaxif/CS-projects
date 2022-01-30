@@ -1,4 +1,4 @@
-Honor code: I have neither given nor received unauthorised aid on the assignment. - Asif-Ul Islam.
+
 
 Person.java
 Encapsulated Person class with private name, explored boolean, predecessor and ArrayList of friends 
